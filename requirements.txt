@@ -9,7 +9,7 @@ Babel==2.14.0
 bcrypt==4.1.2
 binaryornot==0.4.4
 blinker==1.8.2
-brandon_new @ file:///C:/Python3.11/brandon_new/dist/brandon_new-0.0.post1.dev1%2Bgac42723-py3-none-any.whl#sha256=20a40dcbbfe80107885aebf7dba223bc49661705b081b691dbc02f784cc63828
+brandon_new @ file:///C:/Python3.11/brandon_new/dist/brandon_new-0.0.post1.dev1+gac42723-py3-none-any.whl#sha256=20a40dcbbfe80107885aebf7dba223bc49661705b081b691dbc02f784cc63828
 cachetools==5.3.2
 certifi==2024.2.2
 cffi==1.16.0
