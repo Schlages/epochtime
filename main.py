@@ -3,7 +3,7 @@ import time
 from flask import Flask
 
 app = Flask(__name__)
-
+app.secret_key = os.environ.get('SECRET_KEY').encode()
 epoch_time = time.time()
 
 @app.route('/epochtime/')
