@@ -80,7 +80,6 @@ pytest==8.0.0
 pytest-cov==4.1.0
 python-dateutil==2.8.2
 python-slugify==8.0.3
-python-snappy @ file:///C:/Users/Brandon/python_snappy-0.6.1-cp311-cp311-win_amd64.whl#sha256=4189c8d8097a93096770f5ca1074f53d5d19fc9b1638718d0c66f29b01b09721
 pytz==2023.3
 PyYAML==6.0.1
 requests==2.31.0
